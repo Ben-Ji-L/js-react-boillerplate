@@ -1,4 +1,5 @@
 /* eslint-disable import/no-extraneous-dependencies, no-unused-expressions */
+// @flow
 
 import { createStore } from 'redux';
 import { combineReducers } from 'redux-immutable';
